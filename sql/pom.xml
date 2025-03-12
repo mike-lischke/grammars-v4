@@ -18,7 +18,6 @@
         <module>drill</module>
         <module>hive</module>
         <module>mariadb</module>
-        <module>mysql/Positive-Technologies</module>
         <module>phoenix</module>
         <module>plsql</module>
         <module>postgresql</module>

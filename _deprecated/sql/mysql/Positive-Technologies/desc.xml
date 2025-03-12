@@ -2,5 +2,7 @@
 <desc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../_scripts/desc.xsd">
    <antlr-version>^4.10</antlr-version>
    <!-- TODO move back Go once the grammar slowness issue it fixed -->
-   <targets>CSharp;Cpp;Dart;Java</targets>
+   <!-- Deprecated. No targets are tested.
+   targets>CSharp;Cpp;Dart;Java</targets> -->
+   <targets></targets>
 </desc>
